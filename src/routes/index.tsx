@@ -2,7 +2,7 @@ import { createFileRoute } from '@tanstack/react-router';
 import { useEffect, useState } from 'react';
 import { ArrowUpRight, ArrowRight, ArrowDown, Download, Github, Linkedin, Menu, X, Cloud, Code2, Award, GraduationCap, MapPin, Mail, Server, ShieldCheck, Terminal, Check, Trophy, Cpu, Database, ChevronDown, ChevronUp } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import heroImage from '@/assets/cloud-infrastructure.jpg';
+import heroImage from '@/assets/aditi-narang-portrait.png.asset.json';
 import resume from '@/assets/resume.asset.json';
 import { profile, projects, skills, experiences, type Project } from '@/lib/portfolio-data';
 
