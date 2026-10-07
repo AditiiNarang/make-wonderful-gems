@@ -1,4 +1,4 @@
 # Portfolio roadmap
-- [ ] Build recruiter-focused portfolio with all requested sections and project filters.
-- [ ] Connect verified social/project links and uploaded résumé.
-- [ ] Verify desktop and mobile navigation, filters, metadata and download.
+- [x] Build recruiter-focused dark portfolio with all requested sections and project filters.
+- [x] Connect five verified project links, social links and uploaded résumé; unverified projects link to the GitHub profile.
+- [x] Verify desktop and mobile navigation, filters, metadata and PDF download (HTTP 200).
